@@ -80,7 +80,7 @@ li {
   right: 30px;
   bottom: 80px;
 }
-span {
+.weather {
   position: absolute;
   top: 50px;
   right: 50px;
